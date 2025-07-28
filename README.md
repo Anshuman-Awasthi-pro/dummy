@@ -1,6 +1,6 @@
 # dummy
-it is my first repo i am currently learning 
+It is my first repository. I am currently learning.
 <br>
-developer name : Anshuman Awasthi
+Developer name : Anshuman Awasthi.
 <br>
-Current Status : Learning
+Current Status : Learning.
